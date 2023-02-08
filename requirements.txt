@@ -1,0 +1,7 @@
+#This file is for deployment in Deta
+fastapi
+python-jose
+passlib
+pymongo
+python-multipart
+certifi

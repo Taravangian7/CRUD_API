@@ -1,0 +1,1 @@
+{"id":"0d4b5b77-0f6c-4f8a-8edb-26c350f313f0","space":49976,"runtime":"python3.9","name":"API","path":"8ed6ub","project":"e0bzlept","account":"144798365827","region":"sa-east-1","deps":["fastapi","python-jose","passlib","pymongo","python-multipart","certifi"],"envs":null,"public":true,"log_level":"debug","cron":""}
