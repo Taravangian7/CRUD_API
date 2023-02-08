@@ -6,4 +6,4 @@ ca = certifi.where()
 #db_client=MongoClient().local
 
 #for remote database
-db_client=MongoClient("mongodb+srv://Taravangian:Polipoli36941457@cluster0.1zk7cvj.mongodb.net/?retryWrites=true&w=majority", tlsCAFile=ca).test 
+db_client=MongoClient("mongodb+srv://YOUR_DB_USER:YOUR_DB_PASSWORD@cluster0.1zk7cvj.mongodb.net/?retryWrites=true&w=majority", tlsCAFile=ca).test 
